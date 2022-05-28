@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>The Swiss AI Lab (IDSIA)</a>.
+subtitle:
 
 profile:
   align: right
