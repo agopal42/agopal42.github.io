@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as a PhD student at IDSIA with Prof. J\"urgen Schmidhuber.
+Started as a PhD student at IDSIA with Prof. Jürgen Schmidhuber.
