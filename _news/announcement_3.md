@@ -4,4 +4,4 @@ date: 2019-08-01 07:59:00-0400
 inline: true
 ---
 
-Started as a PhD student at IDSIA with Prof. J\"urgen Schmidhuber.
+Started as a PhD student at IDSIA with Prof. Jürgen Schmidhuber.
