@@ -1,2 +1,0 @@
-This repo contains the source code for my personal website. It's built on [al-folio](https://github.com/alshedivat/al-folio) theme by Maruan Al-Shedivat. 
-You should be able to access the site by visiting agopal42.github.io
