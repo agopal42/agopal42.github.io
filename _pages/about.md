@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2.jpg
   address: >
     <p></p>
     
@@ -20,3 +20,5 @@ I am a PhD student with [Prof. Jürgen Schmidhuber](https://people.idsia.ch/~jue
 My research is broadly centered around deep learning and representation learning with a focus on modularity and compositionality.Psychological studies, cognitive and neuroscientific theories on aspects of human perception like attentional gaze, saliency, object perception, binding, relational reasoning, categorization etc. inform my design of computational models. I’m deeply fascinated by both natural and artificial intelligence and wish to distill the essential computational principles from the human mind to build more human-like AI.  
 
 My overarching goal is to design a learning system that can discover abstractions and rich structure with the efficiency and generality comparable to how the human mind constructs *mental models* from direct experience to support goal-directed behavior. My PhD work has focussed on learning structured representations (objects and relations) from high-dimensional perceptual inputs such as images, videos, music, behavioral sequences etc. in a fully unsupervised manner. 
+
+<span style="color:red"> I'm actively looking for full-time Research Scientist roles in AI for Fall 2025. Please reach out if you think I'd be a good fit. Thanks! </span>
