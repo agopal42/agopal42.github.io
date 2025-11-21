@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span> Email: anand_gopalakrishnan [at] g [dot] harvard [dot] edu </span>
+subtitle: <span> Email: anand [underscore] gopalakrishnan [at] g [dot] harvard [dot] edu </span>
 
 profile:
   align: right
