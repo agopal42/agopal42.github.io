@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-11-21'
+  last_updated: '2025-11-24'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
     citations: 20
@@ -46,6 +46,6 @@ papers:
     title: Optic disc segmentation using circular Hough transform and curve fitting
     year: '2015'
   SsbgJ1UAAAAJ:roLk4NBRz8UC:
-    citations: 18
+    citations: 19
     title: Unsupervised Learning of Temporal Abstractions with Slot-based Transformers
     year: '2023'
