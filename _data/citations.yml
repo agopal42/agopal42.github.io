@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-17'
+  last_updated: '2025-12-19'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
     citations: 20
@@ -10,7 +10,7 @@ papers:
     title: Mindstorms in natural language-based societies of mind
     year: '2023'
   SsbgJ1UAAAAJ:8k81kl-MbHgC:
-    citations: 21
+    citations: 22
     title: Exploring the Promise and Limits of Real-Time Recurrent Learning
     year: '2024'
   SsbgJ1UAAAAJ:KlAtU1dfN6UC:
@@ -30,7 +30,7 @@ papers:
     title: Recurrent Complex-Weighted Autoencoders for Unsupervised Object Discovery
     year: '2024'
   SsbgJ1UAAAAJ:_FxGoFyzp5QC:
-    citations: 33
+    citations: 34
     title: Unsupervised Object Keypoint Learning using Local Spatial Predictability
     year: '2021'
   SsbgJ1UAAAAJ:_kc_bZDykSQC:
