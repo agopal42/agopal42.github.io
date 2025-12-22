@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-19'
+  last_updated: '2025-12-22'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
     citations: 20
@@ -22,7 +22,7 @@ papers:
     title: Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings
     year: '2025'
   SsbgJ1UAAAAJ:Tyk-4Ss8FVUC:
-    citations: 223
+    citations: 224
     title: A neural temporal model for human motion prediction
     year: '2019'
   SsbgJ1UAAAAJ:YOwf2qJgpHMC:
