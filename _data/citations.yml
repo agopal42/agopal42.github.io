@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-16'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
     citations: 20
     title: Contrastive Training of Complex-Valued Autoencoders for Object Discovery
     year: '2023'
   SsbgJ1UAAAAJ:5nxA0vEk-isC:
-    citations: 119
+    citations: 123
     title: Mindstorms in natural language-based societies of mind
     year: '2023'
   SsbgJ1UAAAAJ:8k81kl-MbHgC:
@@ -22,7 +22,7 @@ papers:
     title: Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings
     year: '2025'
   SsbgJ1UAAAAJ:Tyk-4Ss8FVUC:
-    citations: 229
+    citations: 231
     title: A neural temporal model for human motion prediction
     year: '2019'
   SsbgJ1UAAAAJ:YOwf2qJgpHMC:
@@ -45,7 +45,11 @@ papers:
     citations: 28
     title: Optic disc segmentation using circular Hough transform and curve fitting
     year: '2015'
+  SsbgJ1UAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: Towards human-like perception with connectionist models
+    year: '2025'
   SsbgJ1UAAAAJ:roLk4NBRz8UC:
-    citations: 19
+    citations: 20
     title: Unsupervised Learning of Temporal Abstractions with Slot-based Transformers
     year: '2023'
