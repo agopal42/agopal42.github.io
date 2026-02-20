@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-20'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
-    citations: 20
+    citations: 21
     title: Contrastive Training of Complex-Valued Autoencoders for Object Discovery
     year: '2023'
   SsbgJ1UAAAAJ:5nxA0vEk-isC:
-    citations: 123
+    citations: 124
     title: Mindstorms in natural language-based societies of mind
     year: '2023'
   SsbgJ1UAAAAJ:8k81kl-MbHgC:
@@ -14,7 +14,7 @@ papers:
     title: Exploring the Promise and Limits of Real-Time Recurrent Learning
     year: '2024'
   SsbgJ1UAAAAJ:KlAtU1dfN6UC:
-    citations: 5
+    citations: 6
     title: Unsupervised Musical Object Discovery from Audio
     year: '2023'
   SsbgJ1UAAAAJ:M3ejUd6NZC8C:
@@ -22,15 +22,15 @@ papers:
     title: Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings
     year: '2025'
   SsbgJ1UAAAAJ:Tyk-4Ss8FVUC:
-    citations: 231
+    citations: 232
     title: A neural temporal model for human motion prediction
     year: '2019'
   SsbgJ1UAAAAJ:YOwf2qJgpHMC:
-    citations: 7
+    citations: 8
     title: Recurrent Complex-Weighted Autoencoders for Unsupervised Object Discovery
     year: '2024'
   SsbgJ1UAAAAJ:_FxGoFyzp5QC:
-    citations: 34
+    citations: 35
     title: Unsupervised Object Keypoint Learning using Local Spatial Predictability
     year: '2021'
   SsbgJ1UAAAAJ:_kc_bZDykSQC:
@@ -50,6 +50,6 @@ papers:
     title: Towards human-like perception with connectionist models
     year: '2025'
   SsbgJ1UAAAAJ:roLk4NBRz8UC:
-    citations: 20
+    citations: 21
     title: Unsupervised Learning of Temporal Abstractions with Slot-based Transformers
     year: '2023'
