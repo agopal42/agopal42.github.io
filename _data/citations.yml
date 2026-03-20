@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-20'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
     citations: 22
@@ -10,7 +10,7 @@ papers:
     title: Mindstorms in natural language-based societies of mind
     year: '2023'
   SsbgJ1UAAAAJ:8k81kl-MbHgC:
-    citations: 24
+    citations: 25
     title: Exploring the Promise and Limits of Real-Time Recurrent Learning
     year: '2024'
   SsbgJ1UAAAAJ:KlAtU1dfN6UC:
@@ -37,6 +37,10 @@ papers:
     citations: 0
     title: 'Enhancing JEPAs with Spatial Conditioning: Robust and Efficient Representation Learning'
     year: '2024'
+  SsbgJ1UAAAAJ:aqlVkmm33-oC:
+    citations: 5
+    title: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+    year: '2019'
   SsbgJ1UAAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: Feature selection and model optimization for semi-supervised speaker spotting
