@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-25'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
-    citations: 24
+    citations: 26
     title: Contrastive Training of Complex-Valued Autoencoders for Object Discovery
     year: '2023'
   SsbgJ1UAAAAJ:5nxA0vEk-isC:
-    citations: 139
+    citations: 142
     title: Mindstorms in natural language-based societies of mind
     year: '2023'
   SsbgJ1UAAAAJ:8k81kl-MbHgC:
@@ -18,15 +18,15 @@ papers:
     title: Unsupervised Musical Object Discovery from Audio
     year: '2023'
   SsbgJ1UAAAAJ:M3ejUd6NZC8C:
-    citations: 0
+    citations: 1
     title: Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings
     year: '2025'
   SsbgJ1UAAAAJ:Tyk-4Ss8FVUC:
-    citations: 236
+    citations: 238
     title: A neural temporal model for human motion prediction
     year: '2019'
   SsbgJ1UAAAAJ:YOwf2qJgpHMC:
-    citations: 10
+    citations: 11
     title: Recurrent Complex-Weighted Autoencoders for Unsupervised Object Discovery
     year: '2024'
   SsbgJ1UAAAAJ:_FxGoFyzp5QC:
