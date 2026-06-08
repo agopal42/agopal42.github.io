@@ -1,42 +1,46 @@
 metadata:
-  last_updated: '2025-11-21'
+  last_updated: '2026-05-25'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
-    citations: 20
+    citations: 26
     title: Contrastive Training of Complex-Valued Autoencoders for Object Discovery
     year: '2023'
   SsbgJ1UAAAAJ:5nxA0vEk-isC:
-    citations: 115
+    citations: 142
     title: Mindstorms in natural language-based societies of mind
     year: '2023'
   SsbgJ1UAAAAJ:8k81kl-MbHgC:
-    citations: 21
+    citations: 26
     title: Exploring the Promise and Limits of Real-Time Recurrent Learning
     year: '2024'
   SsbgJ1UAAAAJ:KlAtU1dfN6UC:
-    citations: 5
+    citations: 7
     title: Unsupervised Musical Object Discovery from Audio
     year: '2023'
   SsbgJ1UAAAAJ:M3ejUd6NZC8C:
-    citations: 0
+    citations: 1
     title: Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings
     year: '2025'
   SsbgJ1UAAAAJ:Tyk-4Ss8FVUC:
-    citations: 220
+    citations: 238
     title: A neural temporal model for human motion prediction
     year: '2019'
   SsbgJ1UAAAAJ:YOwf2qJgpHMC:
-    citations: 7
+    citations: 11
     title: Recurrent Complex-Weighted Autoencoders for Unsupervised Object Discovery
     year: '2024'
   SsbgJ1UAAAAJ:_FxGoFyzp5QC:
-    citations: 33
+    citations: 35
     title: Unsupervised Object Keypoint Learning using Local Spatial Predictability
     year: '2021'
   SsbgJ1UAAAAJ:_kc_bZDykSQC:
     citations: 0
     title: 'Enhancing JEPAs with Spatial Conditioning: Robust and Efficient Representation Learning'
     year: '2024'
+  SsbgJ1UAAAAJ:aqlVkmm33-oC:
+    citations: 5
+    title: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+    year: '2019'
   SsbgJ1UAAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: Feature selection and model optimization for semi-supervised speaker spotting
@@ -45,7 +49,11 @@ papers:
     citations: 28
     title: Optic disc segmentation using circular Hough transform and curve fitting
     year: '2015'
+  SsbgJ1UAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: Towards human-like perception with connectionist models
+    year: '2025'
   SsbgJ1UAAAAJ:roLk4NBRz8UC:
-    citations: 18
+    citations: 22
     title: Unsupervised Learning of Temporal Abstractions with Slot-based Transformers
     year: '2023'
