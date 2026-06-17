@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-17'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
     citations: 26
     title: Contrastive Training of Complex-Valued Autoencoders for Object Discovery
     year: '2023'
+  SsbgJ1UAAAAJ:4DMP91E08xMC:
+    citations: 5
+    title: 'Mindstorms in Natural Language-based Societies of Mind. CoRR, abs/2305.17066, 2023. doi: 10.48550'
+    year: Unknown Year
   SsbgJ1UAAAAJ:5nxA0vEk-isC:
-    citations: 142
+    citations: 147
     title: Mindstorms in natural language-based societies of mind
     year: '2023'
   SsbgJ1UAAAAJ:8k81kl-MbHgC:
-    citations: 26
+    citations: 27
     title: Exploring the Promise and Limits of Real-Time Recurrent Learning
     year: '2024'
   SsbgJ1UAAAAJ:KlAtU1dfN6UC:
@@ -18,15 +22,15 @@ papers:
     title: Unsupervised Musical Object Discovery from Audio
     year: '2023'
   SsbgJ1UAAAAJ:M3ejUd6NZC8C:
-    citations: 1
+    citations: 2
     title: Decoupling the "What" and "Where" With Polar Coordinate Positional Embeddings
     year: '2025'
   SsbgJ1UAAAAJ:Tyk-4Ss8FVUC:
-    citations: 238
+    citations: 240
     title: A neural temporal model for human motion prediction
     year: '2019'
   SsbgJ1UAAAAJ:YOwf2qJgpHMC:
-    citations: 11
+    citations: 12
     title: Recurrent Complex-Weighted Autoencoders for Unsupervised Object Discovery
     year: '2024'
   SsbgJ1UAAAAJ:_FxGoFyzp5QC:
