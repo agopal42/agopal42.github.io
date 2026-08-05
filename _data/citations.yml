@@ -1,16 +1,12 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-05'
 papers:
   SsbgJ1UAAAAJ:0EnyYjriUFMC:
-    citations: 26
+    citations: 27
     title: Contrastive Training of Complex-Valued Autoencoders for Object Discovery
     year: '2023'
-  SsbgJ1UAAAAJ:4DMP91E08xMC:
-    citations: 6
-    title: 'Mindstorms in Natural Language-based Societies of Mind. CoRR, abs/2305.17066, 2023. doi: 10.48550'
-    year: Unknown Year
   SsbgJ1UAAAAJ:5nxA0vEk-isC:
-    citations: 153
+    citations: 159
     title: Mindstorms in natural language-based societies of mind
     year: '2023'
   SsbgJ1UAAAAJ:8k81kl-MbHgC:
@@ -30,7 +26,7 @@ papers:
     title: A neural temporal model for human motion prediction
     year: '2019'
   SsbgJ1UAAAAJ:YOwf2qJgpHMC:
-    citations: 12
+    citations: 13
     title: Recurrent Complex-Weighted Autoencoders for Unsupervised Object Discovery
     year: '2024'
   SsbgJ1UAAAAJ:_FxGoFyzp5QC:
@@ -42,7 +38,7 @@ papers:
     title: 'Enhancing JEPAs with Spatial Conditioning: Robust and Efficient Representation Learning'
     year: '2024'
   SsbgJ1UAAAAJ:aqlVkmm33-oC:
-    citations: 5
+    citations: 6
     title: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
     year: '2019'
   SsbgJ1UAAAAJ:d1gkVwhDpl0C:
@@ -50,7 +46,7 @@ papers:
     title: Feature selection and model optimization for semi-supervised speaker spotting
     year: '2016'
   SsbgJ1UAAAAJ:qjMakFHDy7sC:
-    citations: 28
+    citations: 27
     title: Optic disc segmentation using circular Hough transform and curve fitting
     year: '2015'
   SsbgJ1UAAAAJ:qxL8FJ1GzNcC:
